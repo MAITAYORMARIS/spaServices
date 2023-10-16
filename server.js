@@ -5,7 +5,6 @@ const app = express()
 const Routes= require('./routes/routes')
 const PORT = process.env.PORT || 8000
 
-
 app.set('port',PORT)
 // middleware
 app.use(express.json())
