@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "precio": 10500,
+            "precio": 10,
             "nombre": "Dia de Spa",
             "info": "Imagina un espacio donde puedes escapar de la rutina agitada, un santuario donde las horas se detienen para que puedas disfrutar de las pequeñas cosas que hacen maravillas en tu bienestar. Bienvenido a nuestra experiencia Un Día de Spa, diseñada especialmente para ti.",
             "duracion": "5 horas",
@@ -33,7 +33,7 @@
             "condiciones": "Realiza tu reserva y obten un Voucher para disfrutar de esta experiencia en cualquier día de la semana, de 10:00 a 20:00 horas, durante un período de 4 meses"
         },
         {
-            "precio": 35600,
+            "precio": 35,
             "nombre": "Relax + Facial Amigos",
             "info": "Adéntrate en un mundo de lujo y bienestar con nuestro exclusivo servicio Relax + Facial Amigos. Luxury Spa, te ofrece una experiencia que combina lo mejor del relax y la renovación, perfecta para compartir con amigos.",
             "duracion": "3 horas",
@@ -65,7 +65,7 @@
             "condiciones": "Renueva, relaja y comparte momentos especiales con amigos en nuestro exclusivo Relax + Facial Amigos. Tu bienestar es nuestra prioridad. Reserva ahora y disfruta de esta experiencia única en compañía de tus seres queridos. en cualquier día de la semana, de 10:00 a 20:00 horas. Voucher valido por 2 meses"
         },
         {
-            "precio": 7900,
+            "precio": 8,
             "nombre": "Masaje Relajante",
             "info": "Deja que nuestros terapeutas te lleven a un viaje de relajación y revitalización total. Experimenta la serenidad y recupera la paz interior con nuestro masaje de relajación de calidad superior. Tu cuerpo y mente lo agradecerán.",
             "duracion": "1h 30minutos",
@@ -97,7 +97,7 @@
             "condiciones": "Realiza tu reserva y obten un Voucher para disfrutar de esta experiencia en cualquier día de la semana, de 10:00 a 20:00 horas, valido por 3 meses"
         },
         {
-            "precio": 5500,
+            "precio": 6,
             "nombre": "Spa Facial",
             "info": "Permítete el lujo de una experiencia rejuvenecedora que te hará sentir y lucir radiante. Tu piel y tu espíritu se renovarán con cada visita.",
             "duracion": "40 minutos",
@@ -129,7 +129,7 @@
             "condiciones": "Realiza tu reserva y obten un Voucher para disfrutar de esta experiencia en cualquier día de la semana, de 10:00 a 20:00 horas, valido por 3 meses. Asistir sin maquillaje"
         },
         {
-            "precio": 8900,
+            "precio": 9,
             "nombre": "Masaje Descontracturante",
             "info": "Descubre el alivio y la restauración que proporciona nuestro masaje descontracturante. Permítete un momento de cuidado y bienestar en manos de nuestros terapeutas expertos. Tu cuerpo te lo agradecerá.",
             "duracion": "60 minutos",
@@ -161,7 +161,7 @@
             "condiciones": "Realiza tu reserva y obten un Voucher para disfrutar de esta experiencia disponible de Lunes a Sábado de 9hs a 18hs, valido por 2 meses. Fisioterapeuta masculino"
         },
         {
-            "precio": 8000,
+            "precio": 8,
             "nombre": "Hidroterapia",
             "info": "Permítete relajarte y rejuvenecer en nuestras aguas terapéuticas puras mientras mejoras tu bienestar físico y emocional. Tu cuerpo y mente te agradecerán cada momento en este refugio de serenidad.",
             "duracion": "2 horas",
